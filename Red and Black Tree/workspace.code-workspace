@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../hash"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../skiplist"
+		}
+	]
+}

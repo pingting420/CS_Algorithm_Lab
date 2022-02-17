@@ -1,0 +1,19 @@
+{
+    "configurations": [
+         {
+             "name": "Launch Chrome",
+             "request": "launch",
+             "type": "pwa-chrome",
+             "url": "http://localhost:8080",
+             "webRoot": "${workspaceFolder}"
+         },
+        
+        {
+            "name": "Python: 当前文件",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        }
+    ]
+}
